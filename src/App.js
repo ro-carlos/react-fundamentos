@@ -3,7 +3,7 @@ import TarjetaFruta from './componentes/TarjetaFruta'
 
 const App = () =>(
   <div>
-    <TarjetaFruta name={'Sandía'} price={2.0001}/>
+    <TarjetaFruta name={'Sandía'} price={2.00}/>
     <TarjetaFruta name={'Pera'} price={15.6}/>
     <TarjetaFruta name={'Melocotón'} price={8.9}/>
   
